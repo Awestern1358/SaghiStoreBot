@@ -1,2 +1,0 @@
-# SaghiStoreBot
-Saghi Store
